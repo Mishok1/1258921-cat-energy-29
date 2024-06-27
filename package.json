@@ -44,5 +44,8 @@
   "type": "module",
   "volta": {
     "node": "16.20.2"
+  },
+  "dependencies": {
+    "build": "^0.1.4"
   }
 }
